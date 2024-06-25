@@ -57,6 +57,62 @@ const App = () => {
         name: "Lance",
         surname: "Wilson",
       },
+      {
+        id: 7,
+        latitude: 44.8197,
+        longitude: 20.458,
+        name: "Ken",
+        surname: "Rosenberg",
+      },
+      {
+        id: 8,
+        latitude: 44.8171,
+        longitude: 20.4369,
+        name: "Mike",
+        surname: "Toreno",
+      },
+      {
+        id: 9,
+        latitude: 44.6333,
+        longitude: 20.7167,
+        name: "Madd",
+        surname: "Dogg",
+      },
+      {
+        id: 10,
+        latitude: 44.9,
+        longitude: 20.4667,
+        name: "Salvatore",
+        surname: "Leone",
+      },
+      {
+        id: 11,
+        latitude: 44.55,
+        longitude: 20.7833,
+        name: "Jimmy",
+        surname: "Hernandez",
+      },
+      {
+        id: 12,
+        latitude: 44.75,
+        longitude: 20.4667,
+        name: "Eddie",
+        surname: "Pulaski",
+      },
+      {
+        id: 13,
+        latitude: 44.4667,
+        longitude: 20.15,
+        name: "Kendl",
+        surname: "Johnson",
+      },
+      {
+        id: 14,
+        latitude: 44.95,
+        longitude: 20.4667,
+        name: "Frank",
+        surname: "Tenpenny",
+      },
     ],
     []
   );
@@ -128,6 +184,7 @@ const App = () => {
               <option value={20}>20 km</option>
               <option value={30}>30 km</option>
               <option value={40}>40 km</option>
+              <option value={300}>300 km</option>
             </select>
           </div>
           <div style={{ padding: "25px" }}>
