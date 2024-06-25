@@ -1,5 +1,6 @@
 {
   "name": "react_geolocation_test",
+  "homepage": "react_geolocation_test_live",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
